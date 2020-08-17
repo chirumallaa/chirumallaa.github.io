@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingjun Ma"
+title                    : "Anudeep Chirumalla"
 title_separator          : "-"
-name                     : &name "Xingjun Ma"
+name                     : &name "Anudeep Chirumalla"
 description              : &description "personal description"
-url                      : https://xingjunm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chirumallaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/xingjunm/xingjunm.github.io"
+repository               : "https://github.com/chirumallaa/chirumallaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xingjun Ma"
-  avatar           : "profile.jpg"
-  bio              : "Associate Lecturer@University of Melbourne"
-  location         : "Melbourne, Australia"
+  name             : "Anudeep Chirumalla"
+  avatar           : "chirumallaa.jpg"
+  bio              : "Data Analyst"
+  location         : "East Coast, India"
   employer         :
-  googlescholar    : "http://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xingjunm"
+  github           : "chirumallaa"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "daniel-xingjun-ma/"
-  orcid            : "https://orcid.org/0000-0003-2099-4973"
+  linkedin         : "chirumallaa/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "XingjunMa"
+  twitter          : "chirumalla_a"
   vine             :
   weibo            :
   xing             :
