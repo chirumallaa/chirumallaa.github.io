@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Hello !!
-## I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
+##   I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
 
 
 ---
@@ -24,11 +24,11 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 
 
 * Endurance: Stay fit and healthy.
-* Consistency: Have a respected career as a manager or above in reputed companies.
-* Starting up: Tad tech startup, Food blog.
-* Travel: Travel to the Himalayas extensively.
-* Empathy:
-* Happiness: Great family
+* Consistency: Have a respected career in a reputed company.
+* Starting up: Tech startup, Food blog.
+* Travel: Travel to the Himalayas.
+* Empathy: Being generous.
+* Happiness: Having great family.
 
  
 ---
