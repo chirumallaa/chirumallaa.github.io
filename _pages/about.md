@@ -1,50 +1,35 @@
 ---
 permalink: /
-title: "Xingjun (Daniel) Ma"
+title: "Anudeep Chirumalla"
 excerpt: "About Me"
 author_profile: true
 ---
-<span style="font-weight:bold">Lecturer (Assistant Professor)</span><br>
-<a href="https://www.deakin.edu.au/information-technology" target="_blank">School of Information Technology</a><br>
-<a href="https://www.deakin.edu.au/" target="_blank">Deakin University</a><br>
 
-<span style="font-weight:bold">Honorary Fellow</span><br>
-<a href="https://cis.unimelb.edu.au/" target="_blank">School of Computing and Information Systems</a><br>
-<a href="https://www.unimelb.edu.au/" target="_blank">The University of Melbourne</a>
+
+### I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
+
+
+---
+### What did I do in the last decade?
+
+Graduated with CS degree and MBA, traveled seven countries, worked in a tad french IT company and looked after scrum follow-ups between the client (of internet and data-enabled marketing firm) and development team based in Pune. Worked with Internet giant(client) in a team to ensure Trust & Safety for its flagship video platform's user community. Acted as advisor of open-source product idea and development for Kalana AI, LLC. Worked with R&D and datasets production team to produce verifiable content to top search engines. Currently working in a team to provide ML-enabled data for global IT company's AI product, at Tech Mahindra Ltd.
+
+Did more than twenty small treks and was privileged to complete a solo hiking trail, Tour du Mont Blanc. Been to beautiful cities such as Barcelona, Lyon, Paris, Geneva, Warsaw, etc.
+
 
 ---
 
-I am currently a lecturer in the School of Information Technology, Deakin University (Burwood campus), and am also an honorary fellow in the School of Computing and Information Systems, The University of Melbourne. 
-Before Deakin, I worked as a postdoctoral research fellow for roughly 2 years in the School of Computing and Information Systems, The University of Melbourne, where also I obtained my PhD degree in machine learning.
-Prior to my PhD, I completed my master's and bachelor's degrees in Tsinghua University and Jilin University respectively. 
+### Goals for the next decade !!
 
-I have a broad interest in the theory and applications of machine learning and deep learning, especially adversarial machine learning and security/privacy aspects of AI systems.
-<span style="color:rgb(19,0,238)">I am open to collaborations and partnerships. </span>
 
-<!-- I have visited a few amazing research institues: National Institute of Informatics (Japan) hosted by Prof. Michael E. Houle, and RIKEN (Japan) hosted by Prof. Masashi Sugiyama. I am also fortunate to have collabarated with many highly respected researchers. -->
-<!-- I am also fortunate to have collabarated with <a href="https://people.eng.unimelb.edu.au/smonazam/" target="_blank">Prof. Sarah Erfani</a> (Melbourne University), <a href="https://sites.google.com/site/csyisenwang/" target="_blank">Dr. Yisen Wang</a> (Tsinghua University), <a href="https://scholar.google.com/citations?user=HUYTC0gAAAAJ&hl=en" target="_blank">Prof. Feng Lu</a> (Beihang University), <a href="http://www.crystal-boli.com/" target="_blank">Prof. Bo Li</a> (UIUC), <a href="http://web.cs.ucla.edu/~qgu/" target="_blank"> Prof. Quanquan Gu</a> (UCLA), <a href="http://www.yugangjiang.info" target="_blank"> Prof. Yu-Gang Jiang</a> (Fudan University), and <a href="https://people.eecs.berkeley.edu/~dawnsong/" target="_blank">Prof. Dawn Song</a> (UC Berkeley). -->
+* Endurance: Stay fit and healthy.
+* Consistency: Have a respected career as a manager or above in reputed companies.
+* Starting up: Tad tech startup, Food blog.
+* Travel: Travel to the Himalayas extensively.
+* Empathy:
+* Happiness: Great family
 
----
-
-### Research Interests:
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Artifical Intelligence
-
-<!-- * Machine Learning
-  * Secure/Robust/Explainable machine learning
-  * Adversarial machine learning (<a href="https://github.com/xingjunm/AI2019_Tutorial_on_Adversarial_Machine_Learning" target="_blank">AML tutorial at AI2019 with Sarah Erfani</a>)
-  * Weakly supervised learning
-  * Reinforcement learning
-* Deep Learning and Security
-  * Adversarial attack/defense
-  * Backdoor attack/defense
-  * Generative adverarial networks
-  * Applications: object recognition, image inpainting, object detection, video recognition, automatic speech recognition
-* Artifical Intelligence
-  * Medical AI
-  * Virtual reality surgery -->
+ 
 
 ---
 
@@ -66,8 +51,37 @@ For PhD applicants: funded positions are available for 2020 in our group on adve
 ### Contact:
 
 Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
-Phone: +61 414521205<br>
-Face to face: Office 2.10, Building T, Deakin University, 221 Burwood hwy, Burwood, VIC 3125.
+Facetime: <a href="chirumallaa@gmail.com">Connect using FaceTime</a>
+
+
+<div align="left">
+
+<i>Let's Connect:</i><br>
+
+<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)
+ 
+</div>
+
+
+
 
 ---
 
+
+
+
+
+
+
+### Icebreakers
+
+* Art, Travel and Food. 
+
+* Opensource, Startups and Product ideas.
+
+* Capital Markets.
+
+* I lived in Tamil Nadu for four years and French Alps for four years that means I know languages and culture.
