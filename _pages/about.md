@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Hello !!
-##I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
+## I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
 
 
 ---
