@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Anudeep Chirumalla"
+title: "Anudeep Chirumalla's Personal Page"
 excerpt: "About Me"
 author_profile: true
 ---
 
 
-### I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
+### Hello !!
+##I am Anudeep Chirumalla, a east coast India native. I am an cross-domain expert in cloud native and data-enabled ML projects at scale currently working for Tech Mahindra Ltd.
 
 
 ---
@@ -30,48 +31,17 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 * Happiness: Great family
 
  
-
 ---
 
-### Professional Activities:
+### Connect:
 
-* PC Member: NeurIPS'20， ECCV'20, ICML'20, IJCAI'20, ICLR'20, AAAI'20, KDD'19, NeurIPS'19.
-* Journal Reviewer: TPAMI, TKDE, TNNLS, ACM TOMM, KAIS, IEEE TII, IEEE RA-L, Pattern Recognition
-
-<!--
-<span style="color:blue">
-For PhD applicants: funded positions are available for 2020 in our group on adversarial machine learning research. Please directly contact</span> <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>.
-
-<span style="color:blue">For Unimelb master students, contact me if you are familar with: 1) web skills such as js, node.js and html; and 2) machine/deep learning knowledge/tools such as pytorch, tensorflow, keras. (send me your academic transcript)</span>
-
--->
-
----
-
-### Contact:
-
-Email: daniel.[lastname]@deakin.edu.au/[firstname].[lastname]@unimelb.edu.au <br>
-Facetime: <a href="chirumallaa@gmail.com">Connect using FaceTime</a>
-
-
-<div align="left">
-
-<i>Let's Connect:</i><br>
-
-<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)
- 
-</div>
-
-
+* E-mail: chirumallaa [at] gmail.com
+* Twitter: [chirumalla_a](http://twitter.com/chirumalla_a)
+* LinkedIn: [chirumallaa](http://www.linkedin.com/in/chirumallaa)
+* Instagram: [chirumallaa](http://www.instagram.com/chirumallaa)
 
 
 ---
-
-
-
 
 
 
@@ -79,9 +49,10 @@ Facetime: <a href="chirumallaa@gmail.com">Connect using FaceTime</a>
 ### Icebreakers
 
 * Art, Travel and Food. 
-
 * Opensource, Startups and Product ideas.
-
 * Capital Markets.
-
 * I lived in Tamil Nadu for four years and French Alps for four years that means I know languages and culture.
+
+
+
+# Have a great day!!
