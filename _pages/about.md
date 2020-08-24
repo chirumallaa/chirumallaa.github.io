@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anudeep Chirumalla's Personal Page"
+title: 
 excerpt: "About Me"
 author_profile: true
 ---
