@@ -19,7 +19,7 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 ### Goals for the next decade !!
 
 * Endurance: Stay fit and healthy.
-* Consistency: Have a respected career in a reputed company.
+* Consistency: Career in a reputed company matching my IKIGAI.
 * Starting up: Tech startup, Food blog.
 * Travel: Travel to the Himalayas.
 * Empathy: Being generous.
