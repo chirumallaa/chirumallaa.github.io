@@ -30,9 +30,9 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 ### Connect:
 
 * E-mail: chirumallaa [at] gmail.com
-* Twitter: [chirumalla_a](http://twitter.com/chirumallaURL)
-* LinkedIn: [chirumallaa](http://www.linkedin.com/in/chirumallaURL)
-* Instagram: [chirumallaa](http://www.instagram.com/chirumallaURL)
+* Twitter: [chirumalla_a](http://twitter.com/chirumallaurl)
+* LinkedIn: [chirumallaa](http://www.linkedin.com/in/chirumallaurl)
+* Instagram: [chirumallaa](http://www.instagram.com/chirumallaurl)
 
 
 ---
