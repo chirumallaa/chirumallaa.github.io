@@ -7,9 +7,8 @@ author_profile: true
 
 ### 1. Products
 
-* Exploring the vulnerability of machine learning mdoels to adverarial attacks under both black-box and white-box settings. 
 
-* Defense machine learning models against adversarial attacks.
+* <a href="https://github.com/chirumallaa/chirumallaa.github.io/blob/master/_posts/2019-robust.md" target="_blank">School of Information Technology.</a><br>
 
 * Improving adversarial training as a defense technique for model robustness.
 
