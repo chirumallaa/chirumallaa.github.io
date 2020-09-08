@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "2019 - 2020"
-permalink: /projects/
+title: "Techspace Blog"
+permalink: /techspace/
 author_profile: true
 ---
 
-### 1. Adversarial Machine Learning
+### 1. Products
 
 * Exploring the vulnerability of machine learning mdoels to adverarial attacks under both black-box and white-box settings. 
 
@@ -19,7 +19,7 @@ author_profile: true
 
 * From Lp-bounded to unrestricted adversarial perturbations.
 
-### 2. Robust Supervised/Weakly-Supervised Learning
+### 2. Data Enabled Projects
 
 * Learning with noisy/adversarial labels. 
 
@@ -28,3 +28,8 @@ author_profile: true
 * Learning with adversarial back-door/trojan attacks.
 
 * Learning in noisy and dynamic real-world environments.
+
+
+### 3. Product Innovation and/or Development
+
+* Learning with noisy/adversarial labels. 
