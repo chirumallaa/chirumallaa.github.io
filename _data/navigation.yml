@@ -5,6 +5,9 @@ main:
   - title: "techspace"
     url: /techspace/
     
+  - title: "Blog Posts"
+    url: /wordspace/
+    
 #  - title: "Portfolio"
 #    url: /portfolio/
     
