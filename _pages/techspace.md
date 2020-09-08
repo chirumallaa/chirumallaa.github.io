@@ -8,7 +8,7 @@ author_profile: true
 ### 1. Products
 
 
-* <a href="https://github.com/chirumallaa/chirumallaa.github.io/blob/master/_posts/2019-robust.md" target="_blank">School of Information Technology.</a><br>
+* <a href="https:/chirumalla.com/blob/master/_posts/2019-robust.html" target="_blank">School of Information Technology.</a><br>
 
 * Improving adversarial training as a defense technique for model robustness.
 
