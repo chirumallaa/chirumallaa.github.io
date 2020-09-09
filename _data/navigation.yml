@@ -2,14 +2,7 @@
 main:
 
 
-  - title: "techspace"
-    url: /techspace/
-    
-  - title: "Blog Posts"
-    url: /wordspace/
-      
-  - title: "teaching"
-    url: /teaching/
+
     
 #  - title: "Portfolio"
 #    url: /portfolio/
