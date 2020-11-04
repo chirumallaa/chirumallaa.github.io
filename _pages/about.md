@@ -31,7 +31,7 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 
 * E-mail: chirumallaa [at] gmail.com
 * E-mail: connect [at] chirumalla.com
-* Blog: [Clairvoyance](https://blog.chirumalla.com)
+* Blog: [clairvoyance](https://blog.chirumalla.com)
 * Twitter: [chirumallaURL](http://twitter.com/chirumallaurl)
 * LinkedIn: [chirumallaURL](http://www.linkedin.com/in/chirumallaurl)
 * Instagram: [chirumallaURL](http://www.instagram.com/chirumallaurl)
