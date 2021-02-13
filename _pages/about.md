@@ -36,7 +36,7 @@ Did more than twenty small treks and was privileged to complete a solo hiking tr
 * LinkedIn: [chirumallaURL](http://www.linkedin.com/in/chirumallaurl)
 * Instagram: [chirumallaURL](http://www.instagram.com/chirumallaurl)
 
-* Learning Awesome: [Click to learn something awesome forever](https://learnawesome.org/users/8114e78d-d6aa-4fd6-a027-5484ce40298f)
+* Learning Awesome: [Click to learn something awesome "forever"](https://learnawesome.org/users/8114e78d-d6aa-4fd6-a027-5484ce40298f)
 
 ---
 
